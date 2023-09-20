@@ -2,16 +2,16 @@
 
 ## STEPS IN PROJECT
 MS SQL SERVER: 
-    - Import Data
-    - Creating DB
-    - Writing Queries
-    - Creating Report
+  - Import Data
+  - Creating DB
+  - Writing Queries
+  - Creating Report
 POWER BI: 
-    - Connecting to MS SQL SERVER
-    - Data Cleaning
-    - Data Processing
-    - Data Visualization
-    - Dashboard
+  - Connecting to MS SQL SERVER
+  - Data Cleaning
+  - Data Processing
+  - Data Visualization
+  - Dashboard
 
 ## PROBLEM STATEMENT
 ### KPI's REQUIREMENT
