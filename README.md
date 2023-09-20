@@ -6,6 +6,7 @@ MS SQL SERVER:
   - Creating DB
   - Writing Queries
   - Creating Report
+
 POWER BI: 
   - Connecting to MS SQL SERVER
   - Data Cleaning
