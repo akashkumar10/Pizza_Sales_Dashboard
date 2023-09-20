@@ -1,12 +1,12 @@
 # Pizza_Sales_Dashboard
 
 ## STEPS IN PROJECT
-  MS SQL SERVER
+  MS SQL SERVER: 
     - Import Data
     - Creating DB
     - Writing Queries
     - Creating Report
-  POWER BI
+  POWER BI: 
     - Connecting to MS SQL SERVER
     - Data Cleaning
     - Data Processing
