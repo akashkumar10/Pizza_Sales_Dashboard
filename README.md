@@ -15,7 +15,7 @@
 
 ## PROBLEM STATEMENT
 ### KPI's REQUIREMENT
-I analyzed key indicators for pizza sales data to gain insight into business performance. Specifically, we want ti calculate the following matrics:
+Analyzed key indicators for pizza sales data to gain insight into business performance. Specifically, we want ti calculate the following matrics:
 
 1. Total Revenue: The sum of the total price of all pizza orders
 2. Average Order Value: The average amount spent per order, calculated by dividing the total revenue by the total number of orders.
@@ -24,7 +24,7 @@ I analyzed key indicators for pizza sales data to gain insight into business per
 5. Average Pizzas per Order: The average number of pizzas sold per order, calculated by divding the total number of pizzas sold by the total number of orders.
 
 ### CHART REQUIREMENT
-I visualized various aspects of pizza sales data to understand key trends. I identified the following requirements for creating charts:
+Visualized various aspects of pizza sales data to understand key trends. Identified the following requirements for creating charts:
 1. Daily Trend for Total Orders
 2. Monthly Trend for Total Orders
 3. Percentage of Sales by Pizza Category
